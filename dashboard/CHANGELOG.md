@@ -1,5 +1,13 @@
 # @nhost/dashboard
 
+## 0.13.10
+
+### Patch Changes
+
+- e93b06ab: fix(dashboard): remove left margin from workspace list on mobile
+  - @nhost/react-apollo@5.0.14
+  - @nhost/nextjs@1.13.18
+
 ## 0.13.9
 
 ### Patch Changes
